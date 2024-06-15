@@ -21,4 +21,5 @@
     ```bash
     python manage.py runserver
     ```
+- Please note that the displayed data of performance and accuracy is not meaningful because we haven't tested on real examples more
 ![Project Diagram](/Images/Screenshot_15-6-2024_225654_127.0.0.1.jpeg)
