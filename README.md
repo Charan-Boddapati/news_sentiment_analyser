@@ -21,3 +21,4 @@
     ```bash
     python manage.py runserver
     ```
+![Project Diagram](/Images/Screenshot_15-6-2024_225654_127.0.0.1.jpeg)
